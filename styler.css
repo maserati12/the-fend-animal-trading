@@ -1,0 +1,32 @@
+body {
+	padding: 20px;
+	margin: 20px; 
+	width: 500px;
+}
+.pic {
+	width: 300px;
+	padding-bottom: 5px;
+}
+.info {
+	border: 1px outset black;
+	width: 300px;
+}
+#all {
+	width: 330px;
+}
+.content {
+	padding-left: 5px;
+}
+
+.intrests{
+	font-style: italic;
+	font-size: 12px;
+}
+p {
+	font-size: 11px;
+}
+.labels{
+	list-style-type: none;
+	padding-left: 0;
+	font-size: 12px;
+}
